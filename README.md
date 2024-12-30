@@ -53,7 +53,6 @@ Meet Xeous, an AI assistant that is able to use your API, Or local models.
 
 ---
 
-<img align="right" width="340" src="https://github.com/user-attachments/assets/3cf21e04-7ce9-4d22-a7b9-ba2c595e88a4">  
 
 ### Use Any API and Model  
 
@@ -63,7 +62,6 @@ The extension tracks total token usage and API costs for each task and individua
 
 ---
 
-<img align="left" width="370" src="https://github.com/user-attachments/assets/81be79a8-1fdb-4028-9129-5fe055e01e76">  
 
 ### Run Commands in the Terminal  
 
@@ -73,7 +71,6 @@ For long-running processes like dev servers, use the "Proceed While Running" but
 
 ---
 
-<img align="right" width="400" src="https://github.com/user-attachments/assets/c5977833-d9b8-491e-90f9-05f9cd38c588">  
 
 ### Create and Edit Files  
 
@@ -83,7 +80,6 @@ All modifications are recorded in your file's timeline, making it simple to trac
 
 ---
 
-<img align="left" width="370" src="https://github.com/user-attachments/assets/bc2e85ba-dfeb-4fe6-9942-7cfc4703cbe5">  
 
 ### Use the Browser  
 
@@ -93,7 +89,6 @@ Ask Xoeus to "test the app," and it will launch your dev server, open it in a br
 
 ---
 
-<img align="right" width="350" src="https://github.com/user-attachments/assets/ac0efa14-5c1f-4c26-a42d-9d7c56f5fadd">  
 
 ### Add Custom Tools  
 
@@ -106,7 +101,6 @@ Examples include:
 
 ---
 
-<img align="left" width="360" src="https://github.com/user-attachments/assets/7fdf41e6-281a-4b4b-ac19-020b838b6970">  
 
 ### Enhance Context  
 
@@ -143,6 +137,3 @@ To contribute, start with messaging me for further details.
 ---
 
 Let me know if further tweaks are needed!
-## License
-
-[Apache 2.0 © 2024 Cline Bot Inc.](./LICENSE)
